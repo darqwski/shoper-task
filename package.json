@@ -47,7 +47,7 @@
     "historyApiFallback": true
   },
   "devDependencies": {
-    "eslint": "^7.3.1",
+    "eslint": "^9.26.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
